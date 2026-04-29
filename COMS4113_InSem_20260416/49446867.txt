@@ -1,0 +1,12 @@
+Phase velocity (m/s)	218753904.000
+Group velocity (m/s)	217302224.000
+Aperture total width (micron)	304.643
+FWHM (THz)	1.004
+Coherence time (ps)	0.658
+Thickness (micron)	94.945
+Core diameter (micron)	116.666
+Free Spectral Range (THz)	1.495
+Cavity length (mm)	0.100
+FWHM (GHz)	259.847
+Mirror Reflectivity (power fraction reflected)	0.583
+Fraction of input pulse power transmitted	0.082

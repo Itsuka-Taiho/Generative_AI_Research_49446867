@@ -1,0 +1,6 @@
+This take-home assignment is a Matlab based exam testing concepts and problems. This is a short 48-hour turnaround assignment, meant to replace what would traditionally have been a mid-semester exam. The take home assignment will be released at 1pm 15/04/2026 and due 1pm 17/04/2026.
+
+
+[INSTRUCTIONS]
+
+Assignment will be released at 1:00 pm Wednesday 15th April 2026 You will have 48 hours to complete the exam. The only questions allowed to lecturers/tutors will be as if in an exam. That is, clarification/mistakes on question sheet, but no hints or guidance about the question. All “exams” to be done individually, and in any case, everyone’s answers will be different due to the way the script works. The script will output a file ‘{studentID}.txt’. This contains your answers, and this is what you will be marked on. Ensure it is correctly formatted. It should be a tab-delimited text file. Also upload your MidSem.m file renamed as ‘MidSem_{studentID}.txt’, e.g. MidSem_43210987.m so I can check working. The script will also output a file ‘COMS4113.txt’ and append to it each time your script is run. Never delete this file, it is used to store information relevant to anti-plagiarism, and it will also need to be uploaded as part of your assessment. Upload all 3 files as a single zip archive to blackboard. Due 1:00 pm Friday 17th April 2026
